@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "region": "Diana",
+        "chef_lieu": "Antsiranana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2917,
+          -12.2787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "region": "Sava",
+        "chef_lieu": "Sambava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1667,
+          -14.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "region": "Itasy",
+        "chef_lieu": "Miarinarivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8167,
+          -19.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "region": "Analamanga",
+        "chef_lieu": "Antananarivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5079,
+          -18.8792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "region": "Vakinankaratra",
+        "chef_lieu": "Antsirabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0335,
+          -19.8659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "region": "Bongolava",
+        "chef_lieu": "Tsiroanomandidy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0333,
+          -18.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "region": "Sofia",
+        "chef_lieu": "Antsohihy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9833,
+          -14.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "region": "Boeny",
+        "chef_lieu": "Mahajanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3167,
+          -15.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "region": "Betsiboka",
+        "chef_lieu": "Maevatanana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8333,
+          -16.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "region": "Melaky",
+        "chef_lieu": "Maintirano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0167,
+          -18.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "region": "Alaotra-Mangoro",
+        "chef_lieu": "Ambatondrazaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4167,
+          -17.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "region": "Atsinanana",
+        "chef_lieu": "Toamasina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4023,
+          -18.1492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "region": "Analanjirofo",
+        "chef_lieu": "Fenoarivo Atsinanana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4167,
+          -17.3833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "region": "Ambatosoa",
+        "chef_lieu": "Maroantsetra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7333,
+          -15.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "region": "Amoron'i Mania",
+        "chef_lieu": "Ambositra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.25,
+          -20.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "region": "Haute Matsiatra",
+        "chef_lieu": "Fianarantsoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0857,
+          -21.4527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "region": "Vatovavy",
+        "chef_lieu": "Mananjary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3333,
+          -21.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "region": "Fitovinany",
+        "chef_lieu": "Manakara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0167,
+          -22.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "region": "Atsimo-Atsinanana",
+        "chef_lieu": "Farafangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8333,
+          -22.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "region": "Ihorombe",
+        "chef_lieu": "Ihosy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1167,
+          -22.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "region": "Menabe",
+        "chef_lieu": "Morondava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2833,
+          -20.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "region": "Atsimo-Andrefana",
+        "chef_lieu": "Toliara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6667,
+          -23.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "region": "Androy",
+        "chef_lieu": "Ambovombe-Androy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0833,
+          -25.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "region": "Anosy",
+        "chef_lieu": "Tolagnaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9833,
+          -25.0325
+        ]
+      }
+    }
+  ]
+}
