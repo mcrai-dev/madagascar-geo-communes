@@ -1,0 +1,16 @@
+# Archives
+*.zip
+
+# Carte HTML générée
+#output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
